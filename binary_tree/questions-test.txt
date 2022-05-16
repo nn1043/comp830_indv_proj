@@ -1,0 +1,52 @@
+no INITIAL BUFFER
+.
+yes Does it provide the object creation mechanism that enhance the flexibilities of existing code?
+no Is it responsible for how one class communicates with others?
+no Does it explain how to assemble objects and classes into a large structure and simplifies the structure by identifying the relationships?
+no Oops! Something went wrong! Try again?0
+.
+yes Does it attach additional behavior to an object dynamically at run-time?
+no Is it Adapter Pattern?
+no Oops! Something went wrong! Try again?0
+.
+yes Woohoo! I guessed it! Try again?0
+.
+yes Is it Decorator Pattern?
+no Oops! Something went wrong! Try again?0
+.
+yes Woohoo! I guessed it! Try again?0
+.
+yes Does it provide a mechanism to the context to change its behavior?
+no Does it allow a group of objects to be notified when some state changes?
+no Is it Command Pattern?
+no Oops! Something went wrong! Try again?0
+.
+yes Woohoo! I guessed it! Try again?0
+.
+yes Is it Observer Pattern?
+no Oops! Something went wrong! Try again?0
+.
+yes Woohoo! I guessed it! Try again?0
+.
+yes Is changing behavior built into its scheme?
+no Is it Strategy Pattern?
+no Oops! Something went wrong! Try again?0
+.
+yes Woohoo! I guessed it! Try again?0
+.
+yes Is it State Pattern?
+no Oops! Something went wrong! Try again?0
+.
+yes Woohoo! I guessed it! Try again?0
+.
+yes Does it ensure you have at most one instance of a class in your application?
+no Is it Builder Pattern?
+no Oops! Something went wrong! Try again?0
+.
+yes Woohoo! I guessed it! Try again?0
+.
+yes Is it Singleton Pattern?
+no Oops! Something went wrong! Try again?0
+.
+yes Woohoo! I guessed it! Try again?0
+.
